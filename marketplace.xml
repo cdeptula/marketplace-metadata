@@ -326,28 +326,6 @@
       </version>
 
 
-      <version>
-        <branch>6.1.0.1</branch>
-        <version>6.1.0.1-196</version>
-        <name>6.1</name>
-        <package_url>
-            http://nexus.pentaho.org/content/groups/omni/pentaho/pentaho-cdf/6.1.0.1-196/pentaho-cdf-6.1.0.1-196.zip
-        </package_url>
-        <samples_url>
-            http://nexus.pentaho.org/content/repositories/pentaho-public-release-repos/pentaho/pentaho-cdf-samples/6.1.0.1-196/pentaho-cdf-samples-6.1.0.1-196.zip
-        </samples_url>
-        <description>6.1 Platform Release</description>
-        <build_id/>
-        <min_parent_version>6.1</min_parent_version>
-        <max_parent_version>6.1.99</max_parent_version>
-        <development_stage>
-          <lane>Customer</lane>
-          <phase>4</phase>
-        </development_stage>
-      </version>
-
-
-
 
       <version>
         <branch>STABLE</branch>
@@ -459,20 +437,20 @@
       </version>
       <version>
         <branch>TRUNK</branch>
-        <version>7.0-SNAPSHOT</version>
+        <version>6.1-SNAPSHOT</version>
         <name>TRUNK</name>
         <package_url>
-          http://nexus.pentaho.org/service/local/artifact/maven/redirect?r=omni&amp;g=pentaho&amp;a=pentaho-cdf&amp;v=7.0-SNAPSHOT&amp;p=zip
+          http://nexus.pentaho.org/service/local/artifact/maven/redirect?r=omni&amp;g=pentaho&amp;a=pentaho-cdf&amp;v=6.1-SNAPSHOT&amp;p=zip
         </package_url>
         <samples_url>
-          http://nexus.pentaho.org/service/local/artifact/maven/redirect?r=omni&amp;g=pentaho&amp;a=pentaho-cdf-samples&amp;v=7.0-SNAPSHOT&amp;p=zip
+          http://nexus.pentaho.org/service/local/artifact/maven/redirect?r=omni&amp;g=pentaho&amp;a=pentaho-cdf-samples&amp;v=6.1-SNAPSHOT&amp;p=zip
         </samples_url>
         <description>
           Build for Pentaho 6
         </description>
         <build_id>31</build_id>
         <min_parent_version>6.0</min_parent_version>
-        <max_parent_version>6.1.9</max_parent_version>
+        <max_parent_version>6.0.9</max_parent_version>
         <development_stage>
           <lane>Customer</lane>
           <phase>2</phase>
@@ -591,25 +569,6 @@
         </development_stage>
       </version>
 
-      <version>
-        <branch>6.1.0.1</branch>
-        <version>6.1.0.1-196</version>
-        <name>6.1</name>
-        <package_url>
-            http://nexus.pentaho.org/content/repositories/pentaho-public-release-repos/pentaho/cda/6.1.0.1-196/cda-6.1.0.1-196.zip
-        </package_url>
-        <samples_url>
-            http://nexus.pentaho.org/content/repositories/pentaho-public-release-repos/pentaho/cda-samples/6.1.0.1-196/cda-samples-6.1.0.1-196.zip
-        </samples_url>
-        <description>6.1 Platform Release</description>
-        <build_id/>
-        <min_parent_version>6.1</min_parent_version>
-        <max_parent_version>6.1.99</max_parent_version>
-        <development_stage>
-          <lane>Customer</lane>
-          <phase>4</phase>
-        </development_stage>
-      </version>
 
 
       <version>
@@ -720,20 +679,20 @@
       </version>
       <version>
         <branch>TRUNK</branch>
-        <version>7.0-SNAPSHOT</version>
+        <version>6.1-SNAPSHOT</version>
         <name>Trunk</name>
         <package_url>
-          http://nexus.pentaho.org/service/local/artifact/maven/redirect?r=omni&amp;g=pentaho&amp;a=cda&amp;v=7.0-SNAPSHOT&amp;p=zip
+          http://nexus.pentaho.org/service/local/artifact/maven/redirect?r=omni&amp;g=pentaho&amp;a=cda&amp;v=6.1-SNAPSHOT&amp;p=zip
         </package_url>
         <samples_url>
-          http://nexus.pentaho.org/service/local/artifact/maven/redirect?r=omni&amp;g=pentaho&amp;a=cda-samples&amp;v=7.0-SNAPSHOT&amp;p=zip
+          http://nexus.pentaho.org/service/local/artifact/maven/redirect?r=omni&amp;g=pentaho&amp;a=cda-samples&amp;v=6.1-SNAPSHOT&amp;p=zip
         </samples_url>
         <description>
           Build for Pentaho 6
         </description>
         <build_id>33</build_id>
         <min_parent_version>6.0</min_parent_version>
-        <max_parent_version>6.1.9</max_parent_version>
+        <max_parent_version>6.0.9</max_parent_version>
         <development_stage>
           <lane>Customer</lane>
           <phase>2</phase>
@@ -859,26 +818,6 @@
       </version>
 
 
-      <version>
-        <branch>6.1.0.1</branch>
-        <version>6.1.0.1-196</version>
-        <name>6.1</name>
-        <package_url>
-            http://nexus.pentaho.org/content/repositories/pentaho-public-release-repos/pentaho/pentaho-cdf-dd/6.1.0.1-196/pentaho-cdf-dd-6.1.0.1-196.zip
-        </package_url>
-        <samples_url>
-            http://nexus.pentaho.org/content/repositories/pentaho-public-release-repos/pentaho/pentaho-cdf-dd-solution/6.1.0.1-196/pentaho-cdf-dd-solution-6.1.0.1-196.zip
-        </samples_url>
-        <description>6.1 Platform Release</description>
-        <build_id/>
-        <min_parent_version>6.1</min_parent_version>
-        <max_parent_version>6.1.99</max_parent_version>
-        <development_stage>
-          <lane>Customer</lane>
-          <phase>4</phase>
-        </development_stage>
-      </version>
-
 
       <version>
         <branch>STABLE</branch>
@@ -992,7 +931,7 @@
       </version>
       <version>
         <branch>TRUNK</branch>
-        <version>7.0-SNAPSHOT</version>
+        <version>6.1-SNAPSHOT</version>
         <name>Trunk</name>
         <package_url>
           http://ci.pentaho.com/job/pentaho-cde/lastSuccessfulBuild/artifact/cde-pentaho5/dist/pentaho-cdf-dd-7.0-SNAPSHOT.zip
@@ -1005,7 +944,7 @@
         </description>
         <build_id>517</build_id>
         <min_parent_version>6.0</min_parent_version>
-        <max_parent_version>6.1.9</max_parent_version>
+        <max_parent_version>6.0.9</max_parent_version>
         <development_stage>
           <lane>Customer</lane>
           <phase>2</phase>
@@ -1118,22 +1057,6 @@
       </version>
 
 
-    <version>
-        <branch>6.1.0.1</branch>
-        <version>6.1.0.1-196</version>
-        <name>6.1</name>
-        <package_url>
-            http://nexus.pentaho.org/content/repositories/pentaho-public-release-repos/pentaho/cgg/6.1.0.1-196/cgg-6.1.0.1-196.zip
-        </package_url>
-        <description>6.1 Platform Release</description>
-        <build_id/>
-        <min_parent_version>6.1</min_parent_version>
-        <max_parent_version>6.1.99</max_parent_version>
-        <development_stage>
-          <lane>Customer</lane>
-          <phase>4</phase>
-        </development_stage>
-      </version>
 
       <version>
         <branch>STABLE</branch>
@@ -1234,7 +1157,7 @@
       </version>
     <version>
         <branch>TRUNK</branch>
-        <version>7.0-SNAPSHOT</version>
+        <version>6.1-SNAPSHOT</version>
         <name>Trunk</name>
         <package_url>
           http://ci.pentaho.com/job/pentaho-cgg/lastSuccessfulBuild/artifact/cgg-pentaho5/dist/cgg-7.0-SNAPSHOT.zip
@@ -1244,7 +1167,7 @@
         </description>
         <build_id>87</build_id>
         <min_parent_version>6.0</min_parent_version>
-        <max_parent_version>6.1.9</max_parent_version>
+        <max_parent_version>6.0.9</max_parent_version>
         <development_stage>
           <lane>Customer</lane>
           <phase>2</phase>
@@ -1331,24 +1254,6 @@
         </development_stage>
       </version>
 
-   <version>
-        <branch>6.1.0.1</branch>
-        <version>6.1.0.1-196</version>
-        <name>6.1</name>
-        <package_url>
-            http://nexus.pentaho.org/content/groups/omni/pentaho/sparkl/6.1.0.1-196/sparkl-6.1.0.1-196.zip
-        </package_url>
-        <description>6.1 Platform Release</description>
-        <build_id/>
-        <min_parent_version>6.1</min_parent_version>
-        <max_parent_version>6.1.99</max_parent_version>
-        <development_stage>
-          <lane>Customer</lane>
-          <phase>4</phase>
-        </development_stage>
-      </version>
-
-
       <version>
     	    <branch>TRUNK</branch>
 	    	<version>TRUNK-SNAPSHOT</version>
@@ -1361,10 +1266,10 @@
 		</version>
       <version>
         <branch>master</branch>
-        <version>7.0-SNAPSHOT</version>
+        <version>6.1-SNAPSHOT</version>
         <name>Trunk</name>
         <package_url>
-          http://ci.pentaho.com/job/Sparkl/lastSuccessfulBuild/artifact/dist/sparkl-7.0-SNAPSHOT.zip
+          http://ci.pentaho.com/job/Sparkl/lastSuccessfulBuild/artifact/dist/sparkl-6.1-SNAPSHOT.zip
         </package_url>
         <description>
           Trunk Snapshot. Get the latest,edgy,still work in progress features here...
@@ -2140,10 +2045,7 @@ A landing tab can optionally be presented, which can be used to any of the prede
     <author_logo>http://www.webdetails.pt/ficheiros/saiku.png</author_logo>
     <license>ASL 2.0</license>
     <installation_notes>
-      <![CDATA[ 
-      <strong>Obtaining a license</strong>
-      All versions of Saiku Analytics require a license to function. To download your EE trial license or Community Edition Free license please visit <a href="http://licensing.meteorite.bi">http://licensing.meteorite.bi</a>
-      <strong>Pentaho 6 users</strong><br/>
+      <![CDATA[ <strong>Pentaho 6 users</strong><br/>
       To make Saiku work (for now) you need to copy <a href="http://meteorite.bi/downloads/saiku-olap-util-3.7-SNAPSHOT.jar">this file</a> to tomcat/webapps/pentaho/WEB-INF/lib before restarting your BI Server.<br/>
       Pentaho 5 users can ignore this message.
       ]]>
@@ -2153,7 +2055,7 @@ A landing tab can optionally be presented, which can be used to any of the prede
 		<branch>ENTERPRISE6</branch>
 		<version>3.8.2-EE</version>
 		<name>Stable (Pentaho 6 - Enterprise)</name>
-		<package_url>http://meteorite.bi/downloads/saikuee-plugin-p6-3.8.3.zip</package_url>
+		<package_url>http://meteorite.bi/downloads/saikuee-plugin-p6-3.8.2.zip</package_url>
 		<description>3.7 Enterprise Release for Pentaho BI Server. Enhanced Charting, Date Filters, Maps, Dashboards and Support.
 			For more information contact info@meteorite.bi.
 		</description>
@@ -2168,7 +2070,7 @@ A landing tab can optionally be presented, which can be used to any of the prede
 		<branch>ENTERPRISE</branch>
 		<version>3.8.2-EE</version>
 		<name>Stable</name>
-		<package_url>http://meteorite.bi/downloads/saikuee-plugin-p5-3.8.3.zip</package_url>
+		<package_url>http://meteorite.bi/downloads/saikuee-plugin-p5-3.8.2.zip</package_url>
 		<description>3.7 Enterprise Release for Pentaho BI Server. Enhanced Charting, Date Filters, Maps, Dashboards and Support.
 			For more information contact info@meteorite.bi.
 		</description>
@@ -2181,9 +2083,9 @@ A landing tab can optionally be presented, which can be used to any of the prede
 	</version>
       <version>
         <branch>STABLE</branch>
-        <version>3.8.8</version>
+        <version>3.8.3</version>
         <name>Stable (Community)</name>
-        <package_url>http://meteorite.bi/downloads/saiku-plugin-p5-3.8.8.zip</package_url>
+        <package_url>http://meteorite.bi/downloads/saiku-plugin-p5-3.8.3.zip</package_url>
         <description>3.8 release for the Saiku Plugin.</description>
         <max_parent_version>5.9</max_parent_version>
         <min_parent_version>5.0</min_parent_version>
@@ -2194,9 +2096,9 @@ A landing tab can optionally be presented, which can be used to any of the prede
       </version>
       <version>
         <branch>PENTAHO6</branch>
-        <version>3.8.8</version>
+        <version>3.8.3</version>
         <name>Stable (Community - Pentaho 6)</name>
-        <package_url>http://meteorite.bi/downloads/saiku-plugin-p6-3.8.8.zip</package_url>
+        <package_url>http://meteorite.bi/downloads/saiku-plugin-p6-3.8.3.zip</package_url>
         <description>3.8 release for the Saiku Plugin.</description>
         <max_parent_version>6.9</max_parent_version>
         <min_parent_version>6.0</min_parent_version>
@@ -3424,19 +3326,37 @@ Having trouble with this project? Feel free to report a issue on <a target='NO_B
     <license_name>MPL 2.0</license_name>
     <dependencies>CDE, CDA, CDF, CGG</dependencies>
     <versions>
-	  <version>
-	    <branch>TRUNK</branch>
-		<version>SPARKL-1.1</version>
-		<name>Version 1.1</name>
-		<package_url>https://github.com/cdeptula/logManager/releases/download/v1.1/logManager-SPARKL-1.1.zip</package_url>
-		<description><![CDATA[
+      <version>
+        <branch>TRUNK</branch>
+        <version>2.0</version>
+        <name>Version 2.0</name>
+        <package_url>https://github.com/cdeptula/logManager/releases/download/2.0.0/logManager.zip</package_url>
+        <description><![CDATA[
         Pentaho Log Manager allows you to view, download, and delete
         Pentaho BI Server logs in the Pentaho User Console.
         ]]></description>
-		<build_id>manual-20141001</build_id>
-		<changelog/>
-        <min_parent_version>5.0</min_parent_version>
+       <build_id>1</build_id>
+       <changelog/>
+        <min_parent_version>6.0</min_parent_version>
         <max_parent_version/>
+        <development_stage>
+          <lane>Community</lane>
+          <phase>2</phase>
+        </development_stage>
+      </version>
+      <version>
+        <branch>TRUNK</branch>
+        <version>SPARKL-1.1</version>
+        <name>Version 1.1</name>
+        <package_url>https://github.com/cdeptula/logManager/releases/download/v1.1/logManager-SPARKL-1.1.zip</package_url>
+        <description><![CDATA[
+        Pentaho Log Manager allows you to view, download, and delete
+        Pentaho BI Server logs in the Pentaho User Console.
+        ]]></description>
+       <build_id>manual-20141001</build_id>
+       <changelog/>
+        <min_parent_version>5.0</min_parent_version>
+        <max_parent_version>5.4</max_parent_version>
         <development_stage>
           <lane>Community</lane>
           <phase>2</phase>
@@ -3457,7 +3377,7 @@ Having trouble with this project? Feel free to report a issue on <a target='NO_B
         <changelog/>
         <build_id/>
         <min_parent_version>5.0</min_parent_version>
-        <max_parent_version/>
+        <max_parent_version>5.4</max_parent_version>
         <development_stage>
           <lane>Community</lane>
           <phase>2</phase>
@@ -7195,9 +7115,7 @@ With this plugin you can:
         <name>PDI Plugins</name>
       </parent>
     </category>
-    <description>The Refresh Tableau Extract plugin allows you to refresh an extract on a Tableau server from PDI. It can perform a full refresh of any extract, update an incremental extract from a database, or append new files to an existing extract.  The version installed from the marketplace supports PDI 5.0 to 5.3.
-
-      A version of the plugin that supports PDI 5.4 and above may be downloaded and manually installed from https://github.com/cdeptula/refreshtableauextract/releases/tag/2.0.1a</description>
+    <description>The Refresh Tableau Extract plugin allows you to refresh an extract on a Tableau server from PDI. It can perform a full refresh of any extract, update an incremental extract from a database, or append new files to an existing extract.</description>
     <author>Inquidia Consulting</author>
     <author_url>http://www.inquidia.com</author_url>
     <author_logo>http://inquidia.com/sites/default/files/inquidia-web-logo.png</author_logo>
@@ -7205,9 +7123,41 @@ With this plugin you can:
     <versions>
       <version>
         <branch>TRUNK</branch>
+        <version>2.1.0</version>
+        <build_id>96</build_id>
+        <name>Version 2.1.0</name>
+        <package_url>
+          https://github.com/cdeptula/refreshtableauextract/releases/download/2.1.0/refreshtableauextract.zip
+        </package_url>
+        <source_url>https://github.com/cdeptula/refreshtableauextract</source_url>
+        <min_parent_version>6.0</min_parent_version>
+        <max_parent_version/>
+        <development_stage>
+          <lane>Community</lane>
+          <phase>3</phase>
+        </development_stage>
+      </version>
+      <version>
+        <branch>TRUNK</branch>
+        <version>2.0.1</version>
+        <build_id>94</build_id>
+        <name>Version 2.0.1 for Pentaho 5.4</name>
+        <package_url>
+          https://github.com/cdeptula/refreshtableauextract/releases/download/2.0.1a/refreshtableauextract_kettle54support.zip
+        </package_url>
+        <source_url>https://github.com/cdeptula/refreshtableauextract</source_url>
+        <min_parent_version>5.4</min_parent_version>
+        <max_parent_version>5.4</max_parent_version>
+        <development_stage>
+          <lane>Community</lane>
+          <phase>3</phase>
+        </development_stage>
+      </version>
+      <version>
+        <branch>TRUNK</branch>
         <version>2.0.1</version>
         <build_id>91</build_id>
-        <name>Version 2.0.1 (Stable)</name>
+        <name>Version 2.0.1</name>
         <package_url>
           https://github.com/cdeptula/refreshtableauextract/releases/download/2.0.1/refreshtableauextract.zip
         </package_url>
@@ -8929,13 +8879,13 @@ More on: https://anotherreeshu.wordpress.com/2015/01/13/special-character-remove
   <versions>
     <version>
         <branch>STABLE</branch>
-        <version>1.1.0</version>
+        <version>1.0.0</version>
         <name>SelfServiceBI</name>
-        <package_url>https://github.com/SPECUSA/SelfServiceBI/raw/master/SelfServiceBI-1.1.0.zip</package_url>
+        <package_url>https://github.com/SPECUSA/SelfServiceBI/raw/master/SelfServiceBI-1.0.0.zip</package_url>
          <description>
             It has the features like reusable widget(PIN), Dashboard(PINBOARD), Dynamic Rich visualization, Data Filter, Easily Embeddable, Responsive etc.
          </description>
-      <max_parent_version>6.0</max_parent_version>
+      <max_parent_version>5.4</max_parent_version>
       <min_parent_version>5.0</min_parent_version>
       <development_stage>
         <lane>Community</lane>
@@ -8944,10 +8894,9 @@ More on: https://anotherreeshu.wordpress.com/2015/01/13/special-character-remove
     </version>
   </versions>
   <screenshots>
-    <screenshot>https://raw.githubusercontent.com/SPECUSA/SelfServiceBI/master/Screenshots/dashb1.png</screenshot>
-    <screenshot>https://raw.githubusercontent.com/SPECUSA/SelfServiceBI/master/Screenshots/dashb2.png</screenshot>
-    <screenshot>https://raw.githubusercontent.com/SPECUSA/SelfServiceBI/master/Screenshots/dashb3.png</screenshot>
-    <screenshot>https://raw.githubusercontent.com/SPECUSA/SelfServiceBI/master/Screenshots/dashb4.png</screenshot>
+    <screenshot>https://raw.githubusercontent.com/SPECUSA/SelfServiceBI/master/Screenshots/screenshot1.png</screenshot>
+    <screenshot>https://raw.githubusercontent.com/SPECUSA/SelfServiceBI/master/Screenshots/screenshot2.png</screenshot>
+    <screenshot>https://raw.githubusercontent.com/SPECUSA/SelfServiceBI/master/Screenshots/screenshot3.png</screenshot>
   </screenshots>
 </market_entry>
 
@@ -9697,45 +9646,6 @@ Capabilities:
         <development_stage>
           <lane>Community</lane>
           <phase>3</phase>
-        </development_stage>
-      </version>
-    </versions>
-  </market_entry>
-
-  <market_entry>
-    <id>incentro-cassandra-plugin</id>
-    <type>Step</type>
-    <name>Incentro Datastax Cassandra plugin</name>
-    <category>
-      <name>Big Data</name>
-      <parent>
-        <name>PDI Plugins</name>
-      </parent>
-    </category>
-    <description>
-      This plugin uses the Datastax Cassandra driver to connect to your cluster
-      (Apache Cassandra 1.2+ or DSE 3.2+). For a DSE cluster you can use a
-      secure SSL connection and provide your own truststore file if necessary.
-
-      The plugin provides a table input, table lookup and table output step to control your data.
-    </description>
-    <img>https://bytebucket.org/incentro-ondemand/incentrodatastaxpentahoplugin/raw/f09b152c923709aedde1938284517c6c7c5ab8e9/IncentroCassandraPlugin.svg</img>
-    <small_img>https://bytebucket.org/incentro-ondemand/incentrodatastaxpentahoplugin/raw/f09b152c923709aedde1938284517c6c7c5ab8e9/IncentroCassandraPlugin.svg</small_img>
-    <documentation_url>https://bitbucket.org/incentro-ondemand/incentrodatastaxpentahoplugin</documentation_url>
-    <author>Incentro</author>
-    <author_url>https://incentro.com</author_url>
-    <license_name>Apache License 2.0</license_name>
-    <support_level>COMMUNITY_SUPPORTED</support_level>
-    <cases_url>https://bitbucket.org/incentro-ondemand/incentrodatastaxpentahoplugin/issues</cases_url>
-    <versions>
-      <version>
-        <branch>Stable</branch>
-        <version>1.0.1</version>
-        <package_url>https://bitbucket.org/incentro-ondemand/incentrodatastaxpentahoplugin/downloads/incentro-cassandra-plugin-1.0.1.zip</package_url>
-        <source_url>https://bitbucket.org/incentro-ondemand/incentrodatastaxpentahoplugin</source_url>
-        <development_stage>
-          <lane>Community</lane>
-          <phase>1</phase>
         </development_stage>
       </version>
     </versions>
